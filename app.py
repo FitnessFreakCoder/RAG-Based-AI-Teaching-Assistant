@@ -40,7 +40,7 @@ def inference_stream(prompt):
     """Stream response from OpenAI GPT-4o-mini model"""
     try:
         stream = client.chat.completions.create(
-            model="gpt-5.1",  # Using GPT-4o-mini (note: gpt-5-mini doesn't exist yet)
+            model="gpt-5.1", 
             messages=[
                 {"role": "system", "content": "You are an expert teaching assistant for a React programming course."},
                 {"role": "user", "content": prompt}
