@@ -1,0 +1,62 @@
+# =========================
+# 🔐 Secrets
+# =========================
+.env
+
+# =========================
+# 📦 Large Media Files
+# =========================
+videos/
+audios/
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+*.mp3
+*.wav
+*.aac
+*.flac
+*.ogg
+
+# =========================
+# 🧠 Vector Database & AI Cache
+# =========================
+vector_db/
+chroma/
+faiss_index/
+*.pkl
+*.pt
+*.npy
+*.npz
+
+# =========================
+# 🧾 Generated Data
+# =========================
+Jsons/
+chunks/
+transcripts/
+Output.txt
+prompt.txt
+
+# =========================
+# 🐍 Python cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# =========================
+# 🧪 Virtual environments
+# =========================
+venv/
+.env/
+.venv/
+
+# =========================
+# 🧰 System files
+# =========================
+.DS_Store
+Thumbs.db
