@@ -1,0 +1,44 @@
+# ===========================
+# Core LLM & Embeddings
+# ===========================
+openai
+ollama
+
+# ===========================
+# Environment variables
+# ===========================
+python-dotenv
+
+# ===========================
+# Vector Database
+# ===========================
+chromadb
+
+
+
+
+# ===========================
+# Audio & Transcription
+# ===========================
+openai-whisper
+pydub
+ffmpeg-python
+
+# ===========================
+# File & Document Processing
+# ===========================
+pypdf
+python-docx
+
+# ===========================
+# Web App (Flask)
+# ===========================
+flask
+jinja2
+
+# ===========================
+# Utilities
+# ===========================
+numpy
+tqdm
+requests
