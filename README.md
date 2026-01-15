@@ -1,3 +1,5 @@
+<img width="1889" height="1020" alt="Screenshot 2026-01-12 153419" src="https://github.com/user-attachments/assets/7ff59b67-446d-4ef8-ac14-a7dd2c7e6d4a" />
+<img width="1896" height="1031" alt="Screenshot 2026-01-12 153409" src="https://github.com/user-attachments/assets/da729801-218c-4c30-9bb2-df5d63747395" />
 # 🧠 RAG-Based AI Teaching Assistant
 
 An intelligent Retrieval-Augmented Generation (RAG) system that allows users to ask natural language questions over large collections of documents and video transcripts, delivering accurate, context-aware answers using embeddings, vector databases, and Large Language Models.
